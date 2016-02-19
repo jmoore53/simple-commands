@@ -1,6 +1,8 @@
 # simple-commands
 Extra bash Commands
 
-Bash Scripts that make life easier.
+This repository contains bash scripts that make life easier.
 
+
+#### Whoisemail.sh ####
 Whois return page of emails
